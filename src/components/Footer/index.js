@@ -3,6 +3,7 @@ import styled from 'styled-components';
 
 import SocialImages from '../SocialImages';
 
+import medium from '../../assets/medium.svg';
 import twitter from '../../assets/twitter.svg';
 import github from '../../assets/github.svg';
 import mail from '../../assets/mail.svg';
@@ -27,9 +28,10 @@ const StyledLabel = styled.p`
 `;
 
 const socialImages = [
-  {src: mail, link: 'mailto:functionalhick@gmail.com'},
+  {src: medium, link: 'https://medium.com/functionalhick'},
   {src: twitter, link: 'https://twitter.com/functionalhick'},
-  {src: github, link: 'https://github.com/maksugr/functionalhick'}
+  {src: github, link: 'https://github.com/maksugr/functionalhick'},
+  {src: mail, link: 'mailto:functionalhick@gmail.com'}
 ];
 
 const Footer = () => (
