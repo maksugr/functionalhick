@@ -28,6 +28,8 @@ const PostTemplate = ({data}) => {
         <Time>{post.frontmatter.date}</Time>
         {renderAst(post.htmlAst)}
       </main>
+      <hr />
+      <b>Your are always welcome to follow <Link href="https://medium.com/functionalhick">Medium</Link> and <Link href="https://twitter.com/functionalhick">Twitter</Link>, ⭐️ and create issues on <Link href="https://github.com/maksugr/functionalhick)">GitHub</Link>, read publications on <Link href="https://functionalhick.online/">functionalhick.online</Link>. Feel free to give any feedback, I'm in touch 🙌🏻</b>
       <Footer />
     </div>
   );

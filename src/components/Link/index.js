@@ -30,7 +30,7 @@ const StyledA = styled.a`${styles}`;
 const CommonLink = ({to, href, children}) => {
   return to
     ? <StyledLink to={to}>{children}</StyledLink>
-    : <StyledA href={href}>{children}</StyledA>;
+    : <StyledA href={href} target="_blank">{children}</StyledA>;
 };
 
 export default CommonLink;
