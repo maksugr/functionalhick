@@ -27,7 +27,7 @@ const StyledLabel = styled.p`
 `;
 
 const socialImages = [
-  {src: mail, link: 'mailto:maksugr@gmail.com'},
+  {src: mail, link: 'mailto:functionalhick@gmail.com'},
   {src: twitter, link: 'https://twitter.com/functionalhick'},
   {src: github, link: 'https://github.com/maksugr/functionalhick'}
 ];
