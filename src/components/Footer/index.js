@@ -29,9 +29,9 @@ const StyledLabel = styled.p`
 
 const socialImages = [
   {src: medium, link: 'https://medium.com/functionalhick'},
-  {src: twitter, link: 'https://twitter.com/functionalhick'},
+  {src: twitter, link: 'https://twitter.com/maksugr'},
   {src: github, link: 'https://github.com/maksugr/functionalhick'},
-  {src: mail, link: 'mailto:functionalhick@gmail.com'}
+  {src: mail, link: 'mailto:maksugr@gmail.com'}
 ];
 
 const Footer = () => (
