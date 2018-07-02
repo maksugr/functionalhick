@@ -45,4 +45,4 @@ Greate, we have code as data - one of the most unique feature of Clojure - thank
 
 So you can do `code -> data -> new data -> code` and transform your code in runtime. And it was just one example of really powerful conceptions of Clojure!
 
-That's enough for quick introduction to Clojure, feel free to read all links in this article for full picture. In next article we will talk deeply about syntax.
+That's enough for quick introduction to Clojure, feel free to read all links in this article for full picture. ;**In next article we will talk deeply about syntax**.
