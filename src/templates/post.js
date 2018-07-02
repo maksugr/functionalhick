@@ -29,7 +29,7 @@ const PostTemplate = ({data}) => {
         {renderAst(post.htmlAst)}
       </main>
       <hr />
-      <b>Your are always welcome to follow <Link href="https://medium.com/functionalhick">Medium</Link> and <Link href="https://twitter.com/maksugr">Twitter</Link>, ⭐️ and create issues on <Link href="https://github.com/maksugr/functionalhick)">GitHub</Link>, read publications on <Link href="https://functionalhick.online/">functionalhick.online</Link>. Feel free to give any feedback, I am in touch 🙌🏻</b>
+      <b>Your are always welcome to follow <Link href="https://medium.com/functionalhick">Medium</Link> and <Link href="https://twitter.com/maksugr">Twitter</Link>, ⭐️ and create issues on <Link href="https://github.com/maksugr/functionalhick">GitHub</Link>, read publications on <Link href="https://functionalhick.online/">functionalhick.online</Link>. Feel free to give any feedback, I am in touch 🙌🏻</b>
       <Footer />
     </div>
   );
