@@ -103,3 +103,5 @@ And some more information... For rest params we use ampersand - `&`.
 Ok, for now it is more than enough!
 
 **Next time we will talk about data structures**. For now you can learn more about syntax (and prepare for talking about data structures) in the [official guide](https://clojure.org/guides/learn/syntax) or in [excellent docs](https://clojuredocs.org/core-library).
+
+*This article mostly based on [this russian video](https://www.youtube.com/watch?v=cYUkdmSVMLc&list=PLHOTezm7WWknZXg8IrRSRLZ-nIlpYUAyU&index=2).*
